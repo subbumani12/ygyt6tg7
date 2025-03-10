@@ -1,4 +1,5 @@
-flask
-cv2 
-numpy 
+streamlit
+opencv-python
+numpy
 os
+flask  # (Remove this if not using Flask)
