@@ -1,1 +1,4 @@
 flask
+cv2 
+numpy 
+os
